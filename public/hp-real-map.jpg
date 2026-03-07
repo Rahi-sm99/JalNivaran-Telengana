@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!--
+Modified By : Pramod Sharma;
+Modified on : 26 April 2021
+Change Description : Removed Meta Refresh.
+-->
+<HTML>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXSFPEHNGD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BXSFPEHNGD');
+</script>​​
+
+<Title>Page Not Found - Maps of India</Title>
+
+<script language="JavaScript" src="https://www.mapsofindia.com/js_2009/style.js" type="text/Javascript"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style type="text/css" media="screen">
+@import 'https://www.mapsofindia.com/style_2009/style-new.css';
+@import 'https://www.mapsofindia.com/style_2009/res-style.css';
+@media screen and (max-width: 768px){
+.bottom-links {padding-bottom: 10px !important;}
+}
+</style>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+
+  if (document.referrer.search("india-tour") !== -1) {
+      setTimeout(function(){ 
+        window.location.href = "https://www.mapsofindia.com/tourism/";
+     5000);
+  }else{
+     setTimeout(function(){ 
+        window.location.href = "https://www.mapsofindia.com/";
+     5000);
+  }
+
+	$(".slidebtn,#rtsl") .remove();
+	$('.top_nav_menu > img').click(function(){
+	$('.top-men-bg').toggle(500);
+
+});
+});
+//-->
+</script>
+<style type="text/css">
+body{margin:0 0 0 0 ;}
+.backgrd{background-image:url(https://www.mapsofindia.com/newimages/headerbg.jpg);background-position:"top";background-repeat:no-repeat;}
+.oops{font-family:helvetica;font-size:60pt;color:#E66F0B;}
+.wrong{font-family:helvetica;font-size:16pt;font-weight:bold;color:black;text-decoration:none;}
+</style>
+<style type="text/css">
+  #goog-wm { }
+  #goog-wm h3.closest-match { }
+  #goog-wm h3.closest-match a { }
+  #goog-wm h3.other-things {text-decoration: underline;font-size:12pt;color:#818181; }
+  #goog-wm ul li { }
+  #goog-wm li.search-goog { font-size:12pt;color:#0893E2;display: block; }
+</style>
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'https://www.mapsofindia.com/';
+</script>
+
+<script>
+(function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+ga('create', 'UA-22494977-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<style>
+.leader-redi-ad{width: 728px; height: 90px; margin: 0 auto;float: right;}
+.video-ad{width: 640px;height: 360px;margin: 0 auto;}
+.copy.sticky {margin-bottom: 58px;}
+@media screen and (max-width:768px){
+.leader-redi-ad {width: 375px;height: 50px;text-align: center;}
+.video-ad{width: 320px;height: 180px;margin: 0 auto;}
+}
+</style>
+
+</head>
+<body>
+<div class="mobile_Interstitial">
+<div id="CX-a3341623-7ab8-404b-8d64-ebbc36170bd8"></div>
+</div>
+<div class="desktop_Interstitial">
+<div id="CX-b1f4fe33-85e9-476d-9275-5a6758297292"></div>
+</div>
+<div class="tablet_Interstitial">
+<div id="CX-4fc00c6a-6e5a-42fd-bdd5-013d50878ece"></div>
+</div>
+<!-- /5535731/MDPL-Left-Gutter-multisized-120X600 -->
+<div class="desktop-leftG">
+<div id='div-gpt-ad-1730784866247-0' style='position: fixed;
+    z-index: 2000;
+    left: 0px;
+    margin-left: 5px;
+    top: 20.5px;
+    width: 120px;
+    height: 600px;
+    display: block;
+    text-align: center;min-width: 120px; min-height: 20px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1730784866247-0'); });
+  </script>
+</div>
+</div>
+<!-- /5535731/MDPL_rightgutterspace_multisizedx600 -->
+<div class="desktop-rightG">
+<div id='div-gpt-ad-1743572219950-0' style='position: fixed;
+    z-index: 2000;
+    right: 0px;
+    margin-right: 5px;
+    top: 5px;
+    width: 120px;
+    height: 600px;
+    display:block;
+    min-width: 120px; min-height: 240px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1743572219950-0'); });
+  </script>
+</div>
+</div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTHQZT3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- =============== main table ================== -->
+<table cellpadding=0 cellspacing=0 border=0 width="1000" align="center" id="src_table">
+<tr><td colspan=2 align="center">
+<!-- == header table=== -->
+<div  class="header_container">
+<div  class="logo" title="Maps of India">
+<a href="https://www.mapsofindia.com/" id="link1"></a>
+<a href="https://www.mapsofindia.com/" id="link2"></a>
+<a href="https://www.mapsofindia.com/" id="link3"></a>
+<a href="https://www.mapsofindia.com/india/" id="link4"></a>
+</div>
+<div class="top_nav_menu"><img src="https://www.mapsofindia.com/black-navigation.png"/><div class="top-men-bg"><ul><li><a href="https://www.mapsofindia.com/maps/india/india-political-map.htm">Map of India</a></li><li><a href="https://www.mapsofindia.com/maps/india/physical-map.html">Physical Map</a></li><li><a href="https://www.mapsofindia.com/maps/india/outlinemapofindia.htm">Outline Map</a></li><li><a href="https://www.mapsofindia.com/tourism/">India Travel</a></li><li><a href="http://business.mapsofindia.com/">Business</a></li><li><a href="https://www.mapsofindia.com/utilities/">Utilities</a></li></ul></div></div> 
+
+</div>
+<div>
+<script language="JavaScript" type="text/javascript">
+<!--
+tab_link();
+//-->
+</script>
+</div>
+<!-- ==end header table=== -->
+</td></tr>
+
+<tr><td valign="top" width="100%">
+
+	<!-- == right panel table=== -->
+<table cellpadding=0 cellspacing=0 border=0 width="100%" class="text" align='center'>
+<!-- new tr -->
+<tr><td>&nbsp;</td></tr>
+<tr><td valign="top" align="center"><IMG SRC="https://www.mapsofindia.com/images/oops.gif" WIDTH="62" HEIGHT="59" BORDER="0" ALT="Not Found" id="smiley"><span class="oops"><I>Oops!</I></span><span class="wrong"><I>You have landed on a wrong page/url. </I></span></td></tr>
+<tr><td valign="top"><br><CENTER><script type="text/javascript" src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script></CENTER>
+	<br><br><br><br><br><br><br>
+</TD></TR>
+</table>
+
+</td></tr>
+
+
+<tr><td>
+<!-- ////////////// footer part //////////////////// -->
+
+<!-- == footer table=== -->
+<div class="bottom-links"><a href="https://www.mapsofindia.com/testimonials.html" rel="nofollow">Testimonials</a> | <a href="https://www.mapsofindia.com/sponsors/index.html" rel="nofollow">Sponsors Directory</a> | <a href="https://www.mapsofindia.com/disclaim.htm" rel="nofollow">Disclaimer</a> | <a href="https://www.mapsofindia.com/faq.html" rel="nofollow">FAQs</a>  | <a href="https://www.mapsofindia.com/affiliatenetwork.htm" rel="nofollow">Our Affiliates</a> | <a href="https://www.mapsofindia.com/suggestamap.htm" rel="nofollow">Suggest a Map</a> | <a href="https://www.mapsofindia.com/become-our-sponsor.html" rel="nofollow">Become Our Sponsor</a> | <a href="https://www.mapsofindia.com/copyright/index.html" rel="nofollow">Copyright &amp; Terms of Use</a> |<a href="https://www.mapsofindia.com/privacy-policy/index.html" rel="nofollow">Privacy Policy</a> | <a href="https://www.mapsofindia.com/aboutus.html" rel="nofollow">About Us</a> | <a href="/cdn-cgi/l/email-protection#741b04110615001d1b1a0734191504071b121d1a101d155a171b194b171749071b1801001d1b1a0734191504071b121d1a101d155a171b19" rel="nofollow">Contact Us</a> | <a href="https://www.mapsofindia.com/feedback.html" rel="nofollow">Feedback</a> | <a href="https://www.mapsofindia.com/sitemap.htm">Site Map</a> | <a href="https://www.mapsofindia.com/link/" rel="nofollow">Link to Us</a> | <a href="https://www.mapsofindia.com/press-release.html" rel="nofollow">Press Release</a></div>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td valign="top" width="11"><img src="https://www.mapsofindia.com/images2009/top-L-curve-base.gif" width="11" height="10" alt=""></td><td class="grey_bg">&nbsp;</td><td valign="top" width="11"><img src="https://www.mapsofindia.com/images2009/top-R-curve-base.gif" width="11" height="10" alt=""></td></tr></tbody></table>
+
+<div class="grey_bg1 mobhide"><div class="compare-logo"><img src="https://www.mapsofindia.com/images2009/compare.png" width="65" height="94" alt="Mapping Digiworld Pvt Ltd"></div><div class="footer-container">Mapping Digiworld Pvt Ltd <br>Copyright 1999 - 2021 Mapsofindia.com<br>	ALL RIGHTS RESERVED<br><a href="/cdn-cgi/l/email-protection#14677b7861607d7b7a6754797564677b727d7a707d753a777b79"><span class="__cf_email__" data-cfemail="13607c7f66677a7c7d60537e7263607c757a7d777a723d707c7e">[email&#160;protected]</span></a></div></div>
+<!-- ==end footer table=== -->
+
+</td></tr>
+</TABLE>
+
+
+<! --#include virtual="/corona_cube.html"-->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</HTML>
